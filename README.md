@@ -3,11 +3,15 @@
 **A web-based application built using ASP.NET for managing hotel rooms.**
 
 ## Technologies Used
-- ASP.NET Web Forms
-- SQL Server
-- Bootstrap 5
-- jQuery
+
+* ASP.NET Web Forms
+* SQL Server
+* Bootstrap 5
+* jQuery
 
 
 
+\## UI Updates
+
+\- Improved layout for booking form.
 
